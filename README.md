@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I love watching NFL 🏈 and I'm big fan of the Green Bay Packers 💚 #GoPackGo!
 
 
-<div align="center">
+<div align="center" style="display: inline_block"> 
   <a href="https://github.com/alanmdf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanmdf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmdf&layout=compact&langs_count=7&theme=dark"/>
