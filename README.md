@@ -1,9 +1,11 @@
-### My name is Alan. Welcome to my Profile! 👋
+### Olá, me chamo Alan. Seja bem-vindo ou bem-vinda ao meu perfil! 👋😄
 
-- 📗 I’m currently studying on Trybe
-- 🌱 I’m currently learning Back-End Web Development
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love watching NFL 🏈 and I'm big fan of the Green Bay Packers 💚 #GoPackGo!
+- 📗 Atualmente estudo na Trybe
+- 🌱 Estou cursando o Módulo de Desenvolvimento Back-end
+- ✅ Já finalizei os seguintes módulos: Fundamentos do Desenvolvimento Web e Desenvolvimento Front-end
+- 💡 Tenho interesse em aprimorar minhas habilidades em Desenvolvimento Back-end (SQL, Node.JS, MongoDB)
+- 😄 Pronomes: Ele/dele
+- ⚡ Fato divertido: Adoro assistir jogos da NFL 🏈 e sou torcedor do Green Bay Packers 💚 #GoPackGo!
 
 
 <div align="center"> 
@@ -13,13 +15,15 @@
 </div>
   
 <div align="center" style="display: inline_block"><br>
+  <h4>Tecnologias 🔍</h4>
   <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
   
-  <div align="center"> 
+  <div align="center">
+    <h4>Contato 📫</h4>
   <a href = "mailto:alanmoreirascr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alanfreitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
