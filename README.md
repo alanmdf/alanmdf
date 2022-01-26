@@ -1,6 +1,5 @@
 ### Olá, sou o Alan. Seja bem-vindo ou bem-vinda ao meu perfil! 👋😄
 
-- 🌱 Atualmente estudo Desenvolvimento Back-end na Trybe.
 - 💡 Minhas stacks favoritas: React.JS, Node.JS, Express, SQL, MongoDB.
 - ⚡ Fato divertido: Adoro assistir jogos da NFL 🏈 e sou torcedor do Green Bay Packers 💚 #GoPackGo!
 
